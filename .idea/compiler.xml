@@ -8,6 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="client1" />
         <module name="demo" />
+        <module name="demo (1)" />
+        <module name="demo (2)" />
+        <module name="demo (3)" />
         <module name="es" />
         <module name="feign" />
         <module name="ribbon" />
@@ -17,6 +20,9 @@
     <bytecodeTargetLevel>
       <module name="client1" target="1.8" />
       <module name="demo" target="1.8" />
+      <module name="demo (1)" target="1.8" />
+      <module name="demo (2)" target="1.8" />
+      <module name="demo (3)" target="1.8" />
       <module name="es" target="1.8" />
       <module name="feign" target="1.8" />
       <module name="ribbon" target="1.8" />
